@@ -4,12 +4,15 @@
   "description": "An command line program that can do gist for me.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/goonnow/do-gist.git"
   },
+   "devDependencies": {
+       "mocha": "~1.8.1"
+   },
   "keywords": [
     "gist",
     "github"
