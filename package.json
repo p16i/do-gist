@@ -2,13 +2,16 @@
   "name": "do-gist",
   "version": "0.0.0",
   "description": "An command line program that can do gist for me.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/goonnow/do-gist.git"
+  },
+  "dependencies" : {
+        "exec-sync": "*"
   },
    "devDependencies": {
        "mocha": "~1.8.1"
