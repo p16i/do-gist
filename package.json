@@ -11,7 +11,8 @@
     "url": "git://github.com/goonnow/do-gist.git"
   },
   "dependencies" : {
-        "exec-sync": "*"
+        "exec-sync": "*",
+        "gister": "*"
   },
    "devDependencies": {
        "mocha": "~1.8.1"
