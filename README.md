@@ -1,5 +1,5 @@
 # DO-GIST
-The lazy way to create my gist.
+The lazy way to create a gist from your clipboard.
 
 ## Requirement
 - node.js
