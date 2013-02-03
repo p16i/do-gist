@@ -15,7 +15,6 @@ command below
 export GITHUB_USERNAME=goonnow
 
 export GITHUB_PASSWORD=*******
-
 ```
 
 ---
