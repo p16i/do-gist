@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git://github.com/goonnow/do-gist.git"
   },
+  "bin": {
+    "do-gist": "./bin/do-gist.js"
+  },
   "dependencies" : {
         "exec-sync": "*",
         "gister": "*"
