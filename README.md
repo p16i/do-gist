@@ -21,5 +21,5 @@ export GITHUB_PASSWORD=*******
 3. Get URL.
 
 ---
-If you have any feedbacks, Please call me :)
+If you have any feedbacks, Please email to me `goonow[at]rocketmail.com`.
 
