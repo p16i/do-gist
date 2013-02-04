@@ -16,6 +16,8 @@ export GITHUB_USERNAME=goonnow
 
 export GITHUB_PASSWORD=*******
 ```
+## How to use 
+Just type `do-gist` in your shell
 
 ---
 If you have any feedbacks, Please call me :)
