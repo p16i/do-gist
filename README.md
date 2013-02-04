@@ -6,8 +6,7 @@ The lazy way to create a gist from your clipboard.
 - npm
 
 ## Installation
-- Clone it
-- Go to folder and run `npm install ./ -g`
+- Run `npm install do-gist -g`
 - Set your GITHUB_USERNAME and GITHUB_PASSWORD in your shell by the
 command below
  
