@@ -16,8 +16,10 @@ export GITHUB_USERNAME=goonnow
 
 export GITHUB_PASSWORD=*******
 ```
-## How to use 
-Just type `do-gist` in your shell
+## Usage
+1. Copy your text that you want to create a gist.
+2. Run `do-gist` in your shell.
+3. Get URL.
 
 ---
 If you have any feedbacks, Please call me :)
