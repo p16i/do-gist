@@ -1,6 +1,6 @@
 {
   "name": "do-gist",
-  "version": "0.0.2",
+  "version": "0.0.2-1",
   "description": "An command line program that can do gist for me.",
   "main": "lib/index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   "bin": {
     "do-gist": "./bin/do-gist.js"
   },
-  "dependencies" : {
-        "copy-paste": ">=0.0.5",
-        "gister": ">=0.2.2",
-        "optimist": "*"
+  "dependencies": {
+    "copy-paste": ">=0.0.5",
+    "gister": ">=0.2.2",
+    "optimist": "*"
   },
-   "devDependencies": {
-       "mocha": "~1.8.1"
-   },
+  "devDependencies": {
+    "mocha": "~1.8.1"
+  },
   "keywords": [
     "gist",
     "github"
