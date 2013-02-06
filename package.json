@@ -1,6 +1,6 @@
 {
   "name": "do-gist",
-  "version": "0.0.2-1",
+  "version": "1.0.0-0",
   "description": "An command line program that can do gist for me.",
   "main": "lib/index.js",
   "scripts": {
