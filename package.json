@@ -15,7 +15,8 @@
   },
   "dependencies" : {
         "copy-paste": ">=0.0.5",
-        "gister": "*"
+        "gister": ">=0.2.2",
+        "optimist": "*"
   },
    "devDependencies": {
        "mocha": "~1.8.1"
