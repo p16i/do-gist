@@ -1,4 +1,6 @@
 # DO-GIST
+[![Build Status](https://travis-ci.org/[goonnow/[do-gist].png)](https://travis-ci.org/[goonnow/[do-gist)
+
 The lazy way to create a gist from your clipboard.
 
 ## Requirement
