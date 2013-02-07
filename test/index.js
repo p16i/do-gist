@@ -8,6 +8,6 @@ it('Create anonymous gist', function(){
     var str = "TEST GIST";
     copy(str);
 
-    assert.equal( myGist.doGist({ isAnonymous: 1}), str );
+    assert.ok( myGist.doGist({ isAnonymous: 1}));
 });
 
