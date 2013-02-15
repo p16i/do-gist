@@ -1,6 +1,8 @@
-var myGist = require("../");
 var assert = require("assert");
-var clipboard = require("copy-paste");
+var myGist = require("../");
+
+/* NEED TO BE UNDER REQUIRE MY-GIST */
+var clipboard = require("./mock/copy-paste");
 
 it('Create anonymous gist', function(){
 
