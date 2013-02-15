@@ -14,8 +14,8 @@
     "do-gist": "./bin/do-gist.js"
   },
   "dependencies": {
-    "copy-paste": ">=0.0.5",
-    "gister": ">=0.2.2",
+    "copy-paste": "0.0.5",
+    "gister": "0.2.2",
     "optimist": "*"
   },
   "devDependencies": {
