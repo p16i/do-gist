@@ -2,16 +2,16 @@
 var myGist = require("../");
 var argv = require('optimist').argv;
 
-if( argv.l ){
-    myGist.doGist({isAnonymous: 0});
-}else if( argv.a ) {
-    myGist.doGist({isAnonymous: 1});
-}else{
+if( argv.h || argv.help ){
     printUsage();
+}else if( argv.my  ) {
+    myGist.doGist({isAnonymous: 0});
+}else{
+    myGist.doGist({isAnonymous: 1});
 }
 
 function printUsage(){
-    console.log("Usage : do-gist [-l,-a]");
-    console.log(" -a : create anonymous gist");
-    console.log(" -l : create your own gist");
+    console.log("Usage : do-gist [--my]");
+    console.log(" no option : create anonymous gist");
+    console.log(" --my : create your own gist");
 }
